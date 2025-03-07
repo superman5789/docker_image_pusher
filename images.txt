@@ -1,12 +1,2 @@
-mysql:5.7.38
-mysql:8.0.29
+redis:7.4
 
-redis:5.0.7
-
-minio/minio
-
-nginx:1.26.1
-
-python:3.11-slim
-
-mathworks/matlab:r2022b
